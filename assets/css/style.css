@@ -1,3 +1,77 @@
+/* Align header links */
+/*ul {
+	list-style-type: none;
+	float: right;
+
+
+}
+*/
+#links {
+	float: right;
+}
+
+p, li, .header {
+	display: inline;
+}
+
+
+/* 
+Margins to seperate header <li>
+*/
+
+
+/*float the .maincontent and .sidebar
+*/
+.maincontent {
+	float: left;
+}
+.sidebar {
+	float: right;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 body {
 	background-color: #efeee7;
 	margin: 0;
@@ -78,3 +152,4 @@ footer {
 #portfolio{
 	width: 30%;
 }
+*/
